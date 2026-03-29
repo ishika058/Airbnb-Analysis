@@ -26,14 +26,14 @@ This project involves analyzing Airbnb listing data to understand:
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
-| Library | Purpose |
-|----------|----------|
-| **Pandas** | Data manipulation & cleaning |
-| **NumPy** | Numerical operations |
-| **Matplotlib** | Data visualization |
-| **Seaborn** | Advanced statistical plotting |
+ Library           Purpose 
+
+ Pandas            Data manipulation & cleaning 
+ NumPy             Numerical operations 
+ Matplotlib        Data visualization 
+ Seaborn           Advanced statistical plotting 
 
 Key Insights:
 
